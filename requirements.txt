@@ -1,1 +1,6 @@
-rm requirements.txt
+Flask
+Flask-Cors
+SpeechRecognition
+indic-transliteration
+pydub
+gunicorn
